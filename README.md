@@ -1,3 +1,3 @@
 # python_basics
-Some basic exercises...
+Some basic exercises in Python with GIT.
 
